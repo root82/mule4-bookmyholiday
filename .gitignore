@@ -1,0 +1,17 @@
+.metadata/
+.mule/
+.tooling-apps-cache/
+american-flights-api-2/
+americanflightsapi/
+apdev-examples/
+apdev-flights-ws1/
+apdev2-examples/
+apdev2-flights-ws/
+delta-sapi-temp/
+mcd1/
+temp/
+test/
+training-american-ws/
+training2-american-ws/
+wt10-1_apdev-flights-ws_solution/
+wt10-7_apdev-flights-ws_solution/
